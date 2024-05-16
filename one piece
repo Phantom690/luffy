@@ -1,0 +1,6 @@
+print(list)
+list=[1,2,"abc",3,"xyz",2,4]
+print(list)
+print=("\ndictionary")
+dict={"a":1,"B":2,"c":3}
+print(dict)
